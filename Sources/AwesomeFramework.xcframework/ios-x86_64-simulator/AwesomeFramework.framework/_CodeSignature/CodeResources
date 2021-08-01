@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/Project/x86_64-apple-ios-simulator.swiftsourceinfo</key>
 		<data>
-		ykjGcxAXP+UAVR0SsX1aNaYAn7s=
+		KpjN3+pewOyEdfw8pz+fLRubIJc=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<data>
-		ykjGcxAXP+UAVR0SsX1aNaYAn7s=
+		KpjN3+pewOyEdfw8pz+fLRubIJc=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -50,27 +50,27 @@
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
-		G8feOaN5QOMqf1hOwQFg0REhGpA=
+		l1o2NWTxHNq/mnmsTdzFtWUXFu4=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gz3ktRjtk02+lf0AondcHL9BIpU=
+		0QbUCgSyimMoCliPnN4x2VlaGyw=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		K1xXzjBfjBvEusikLfCdaRyxLXM=
+		P7nWkPlGMbk7F0nAvAwZy82ZGro=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftdoc</key>
 		<data>
-		G8feOaN5QOMqf1hOwQFg0REhGpA=
+		l1o2NWTxHNq/mnmsTdzFtWUXFu4=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftinterface</key>
 		<data>
-		gz3ktRjtk02+lf0AondcHL9BIpU=
+		0QbUCgSyimMoCliPnN4x2VlaGyw=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftmodule</key>
 		<data>
-		K1xXzjBfjBvEusikLfCdaRyxLXM=
+		P7nWkPlGMbk7F0nAvAwZy82ZGro=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -111,14 +111,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nE3BAyZzZKJkP/qfvCREmgGTRCXjngXZf40Eby+dJ/s=
+			99J3UIYrdf/DNUPTow6TARR2yOFN/zKjufrRwqfKhbw=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/Project/x86_64.swiftsourceinfo</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nE3BAyZzZKJkP/qfvCREmgGTRCXjngXZf40Eby+dJ/s=
+			99J3UIYrdf/DNUPTow6TARR2yOFN/zKjufrRwqfKhbw=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -153,42 +153,42 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrXR0Y0/aAssOWsKQMP9YKaM5r8YO6sHKkqH114uXjU=
+			giqdJq8mjwWNRsmU6zh8Yhyl5IdWWGLFsl11Bmz83mw=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OAz4ipdgAMK0FcZhEyxm9gzZAabYxHR0vEB28IeVNZA=
+			u226Tp/WrYZmk2RuAmQUYaisyiADTWwGugicp/a0CKA=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1waRTeqwq6dKxRKJYDjs9/x37I2O9bafF3KCUl3H0KM=
+			nS0+A+kzgPIEQi0AOgivGC84XXTlVzs+UI9pJtX9gh8=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftdoc</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			lrXR0Y0/aAssOWsKQMP9YKaM5r8YO6sHKkqH114uXjU=
+			giqdJq8mjwWNRsmU6zh8Yhyl5IdWWGLFsl11Bmz83mw=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			OAz4ipdgAMK0FcZhEyxm9gzZAabYxHR0vEB28IeVNZA=
+			u226Tp/WrYZmk2RuAmQUYaisyiADTWwGugicp/a0CKA=
 			</data>
 		</dict>
 		<key>Modules/AwesomeFramework.swiftmodule/x86_64.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			1waRTeqwq6dKxRKJYDjs9/x37I2O9bafF3KCUl3H0KM=
+			nS0+A+kzgPIEQi0AOgivGC84XXTlVzs+UI9pJtX9gh8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
