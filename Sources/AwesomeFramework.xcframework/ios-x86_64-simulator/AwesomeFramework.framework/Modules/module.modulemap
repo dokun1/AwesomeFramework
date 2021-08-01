@@ -1,0 +1,11 @@
+framework module AwesomeFramework {
+  umbrella header "AwesomeFramework.h"
+
+  export *
+  module * { export * }
+}
+
+module AwesomeFramework.Swift {
+    header "AwesomeFramework-Swift.h"
+    requires objc
+}
