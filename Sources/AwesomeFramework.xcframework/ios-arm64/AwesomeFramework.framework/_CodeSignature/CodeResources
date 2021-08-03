@@ -4,6 +4,10 @@
 <dict>
 	<key>files</key>
 	<dict>
+		<key>.DS_Store</key>
+		<data>
+		Ng2lnf1v+X2sIaHJ+NatsGInSTs=
+		</data>
 		<key>Headers/AwesomeFramework-Swift.h</key>
 		<data>
 		B8AH0Y3jYU4WX+/bTLQ3GILxh1E=
@@ -15,6 +19,14 @@
 		<key>Info.plist</key>
 		<data>
 		LLhLLQdTfCAf1jwGCzWIMHkruWI=
+		</data>
+		<key>Modules/.DS_Store</key>
+		<data>
+		paIBubLrB+5VeNWLBCopXj46gIA=
+		</data>
+		<key>Modules/AwesomeFramework.swiftmodule/.DS_Store</key>
+		<data>
+		VE3/X8+/ewSRl4SVaeoFAFT1+4k=
 		</data>
 		<key>Modules/AwesomeFramework.swiftmodule/Project/arm64-apple-ios.swiftsourceinfo</key>
 		<data>
