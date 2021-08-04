@@ -10,6 +10,6 @@ let package = Package(
       targets: ["AwesomeFramework"]),
   ],
   targets: [
-    .binaryTarget(name: "AwesomeFramework", path: "./Sources/AwesomeFramework.xcframework")
+    .binaryTarget(name: "AwesomeFramework", path: "./Sources/AwesomeFramework.xcframeworks")
   ]
 )
